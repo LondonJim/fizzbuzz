@@ -6,6 +6,6 @@ Returns 'fizz' for multiples of 3 and 'buzz' for multiples of 5, 'fizzbuzz' retu
 
 
 #### Examples
-fizzbuzz(3) returns fizz
-fizzbuzz(5) returns buzz
-fizzbuzz(7) returns 7
+- fizzbuzz(3) returns fizz
+- fizzbuzz(5) returns buzz
+- fizzbuzz(7) returns 7
